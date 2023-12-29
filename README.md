@@ -1,5 +1,5 @@
-### Name:Ashwath M
-### Register number:23000309
+### Name:Muthu Kumaran M
+### Register number:23006606
 ## Experiment 05 Implementation of flipflops using verilog
 ### AIM: 
 To implement all the flipflops using verilog and validating their functionality using their functional tables
